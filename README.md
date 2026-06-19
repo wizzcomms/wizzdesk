@@ -1,3 +1,5 @@
+![WizzDesk](banner.png)
+
 <p align="center">
   <a href="https://wizzcomms.com">
     <img src="./public/logo.png" alt="WizzDesk" />
