@@ -1,14 +1,14 @@
 [submodule "evo-auth-service-community"]
 	path = evo-auth-service-community
-	url = https://github.com/agencywizz/evo-auth-service-community.git
+	url = https://github.com/wizzcomms/evo-auth-service-community.git
 	branch = wizz
 [submodule "evo-ai-crm-community"]
 	path = evo-ai-crm-community
-	url = https://github.com/agencywizz/evo-ai-crm-community.git
+	url = https://github.com/wizzcomms/evo-ai-crm-community.git
 	branch = wizz
 [submodule "evo-ai-frontend-community"]
 	path = evo-ai-frontend-community
-	url = https://github.com/agencywizz/evo-ai-frontend-community.git
+	url = https://github.com/wizzcomms/evo-ai-frontend-community.git
 	branch = wizz
 [submodule "evo-ai-processor-community"]
 	path = evo-ai-processor-community
